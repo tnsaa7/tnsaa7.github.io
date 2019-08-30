@@ -1,24 +1,28 @@
 ---
 layout: single
 permalink: /about/
-title: "What we do"
+title: "TNSAA Workshops"
 header:
-  overlay_image: "/assets/images/caspar-rubin-224229-unsplash.jpg"
-  caption: "Photo by Caspar Rubin on Unsplash"
+  overlay_image: "/assets/images/data-stream-abstract-hd-wallpaper-1920x1080-2373.jpg"
+  overlay_filter: 0.5
 ---
 
+## Introduction
 
-Our research interests involve strongly-correlated many-body systems,
-with a focus on emergent phenomena, exotic phases, and
-phase transitions.
+Tensor network (TN) representations has been provided natural framework for a number of physical phenomena.
+Technical developments plays an important role for realistic application of the TN formulation, where profound
+understanding of information in each system or object is essential. In recent years layered TNs, such as MERA,
+are found to be efficient for conceptual understanding of entanglement structure in physics from atomic system
+to the universe. The series of workshop, Tensor Network States: Algorithms and Applications (TNSAA), has been
+organized for the purposes of exchanging new developments, having discussions toward future studies, and providing
+basic conceptual talks for new generation of researchers.
 
-We aim to understand the physics of materials through microscopic models using
-computational methods as our major theoretical tools.   
-Our work has employed Monte Carlo simulations, and Tensor Network related methods to explore the  physics of classical and quantum magnetic materials, cold atoms in optical lattices, bosonic fluids and low-dimensional systems.
+## Past workshops
 
- We are also interested in working at the interface of physics and computer science to develop efficient algorithms for simulating quantum mechanical  systems on classical computers,  including  tensor network algorithms, machine learning, and how the ideas from physics can be applied in computer science.
-
-Highlight of our recent research can be found [here](/research/)
-
-
-<img src="/assets/images/student.jpg" width="200px" height="200px" align="center">
+* 2012-2013: Taipei (Dec. 2012) [DMRG Winter School](https://sites.google.com/site/dmrg101/home)
+* 2013-2014: Taipei (Dec. 2013)
+* 2014-2015: [Beijing](http://theory.iphy.ac.cn/TNSAA2014/materials.html) (Dec. 2014)
+* 2015-2016: Okazaki (Jan. 2016)
+* 2016-2017: [Hsinchu](http://phys.cts.nthu.edu.tw/actnews/?Sn=318) (Dec. 2016)
+* 2017-2018: [Beijing](http://tnsaa.csp.escience.cn/dct/page/1) (Jan. 2018)
+* 2018-2019: [Kobe](http://quattro.phys.sci.kobe-u.ac.jp/kobe_2018/TNSAA2018-19.html) (Dec. 2018)

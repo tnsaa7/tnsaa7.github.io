@@ -6,12 +6,14 @@ main:
      url: /index.html
    - title: "About"
      url: /about/
-   - title: "Research"
-     url: /research/
-   - title: "Publications"
-     url: /publications/
-   - title: "Members"
-     url: /members/
+   - title: "Venue"
+     url: /venue/
+   - title: "Registration"
+     url: /registration/
+   - title: "Program"
+     url: /program/
+   - title: "Participants"
+     url: /participants/
    - title: "Contact"
      url: /contact/
 
