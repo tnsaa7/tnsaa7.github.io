@@ -45,5 +45,5 @@ header:
   * Ying-Jer Kao, National Taiwan University
   * Pochung Chen, National Tsing Hua University
   * Yu-Cheng Lin, National Cheng-Chi University
-  * David C.-J. Lin, National Chiao-Tung University
+  * C.-J. David Lin, National Chiao-Tung University
   * Ching-Yu Huang, Tunghai University
