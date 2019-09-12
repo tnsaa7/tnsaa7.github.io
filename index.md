@@ -35,9 +35,9 @@ header:
 
 ## Advisory Committee
 
-  *   
-  *  
-  *  
+  * Tao Xiang (Chinese Academy of Science)   
+  * Tomotoshi Nishino (Kobe University)
+  * Naoki Kawashima (University of Tokyo)
 
 
 ## Organization Committee
@@ -47,3 +47,9 @@ header:
   * Yu-Cheng Lin, National Cheng-Chi University
   * C.-J. David Lin, National Chiao-Tung University
   * Ching-Yu Huang, Tunghai University
+
+## Sponsors
+
+  * Ministry of Science and Technology
+  * National Center for Theoretical Sciences
+  
