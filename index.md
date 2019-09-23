@@ -42,6 +42,7 @@ share: true
   *  Yoshifumi Nakamura (RIKEN)
   *  Zhang Pan (CAS)
   *  Lixin He (U of Science and Technology)
+  *  Dong-Hee Lee (Gwangju Institute of Science and Technology)
   *  Wei Li (Behang)\*
   *  Haijun Liao (CAS)\*
   *  Tsuyoshi Obuko (U of Tokyo) \*
@@ -50,7 +51,7 @@ share: true
   *  Philip Corboz (U of Amsterdam) \*
   *  Frank Verstraete (Ghent U/U of Vienna)\*
   *  Frank Pollmann (Technical University of Munich)\*
-  
+
 
   \* To be confirmed
 
