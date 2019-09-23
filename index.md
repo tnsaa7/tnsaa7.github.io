@@ -18,7 +18,6 @@ header:
 * [National Cheng-Chi University](/venue/), Taipei, Taiwan
 
 
-
 ## Scopes
 
   * Tensor network algorithms
@@ -29,9 +28,13 @@ header:
   * Lattice field theory
 
 ## Invited Speakers
-  *  
-  *  
-  *  
+
+  *  Daisuke Kadoh (NCTS)
+  *  Stefan Kuhn (PI)
+  *  Yoshifumi Nakamura (RIKEN)
+  *  Zhang Pan (CAS)
+  *  Lixin He (USTC)
+
 
 ## Advisory Committee
 
@@ -52,4 +55,3 @@ header:
 
   * Ministry of Science and Technology
   * National Center for Theoretical Sciences
-  
