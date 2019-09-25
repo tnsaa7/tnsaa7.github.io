@@ -9,6 +9,11 @@ header:
 sidebar:
   - title: "Latest News"
     text: "Registration Open"
+  - title: "Important Dates"
+    text: "Registration deadline: 11/10
+           Conference: 12/4-6
+          "
+
 
 share: true
 ---
@@ -34,7 +39,7 @@ share: true
   * Machine learning
   * Lattice field theory
 
-## Invited Speakers (in alphabetical order)
+## Invited Speakers (by alphabetical order)
 
   *  Dong-Hee Lee (Gwangju Institute of Science and Technology)
   *  Lixin He (U of Science and Technology)
@@ -65,11 +70,11 @@ share: true
 
 ## Organization Committee
 
-  * Yu-Cheng Lin, National Cheng-Chi University\*
-  * Ying-Jer Kao, National Taiwan University
-  * Pochung Chen, National Tsing Hua University
-  * C.-J. David Lin, National Chiao-Tung University
-  * Ching-Yu Huang, Tunghai University
+  * Yu-Cheng Lin (National Cheng-Chi University)\*
+  * Ying-Jer Kao (National Taiwan University)
+  * Pochung Chen (National Tsing Hua University)
+  * C.-J. David Lin (National Chiao-Tung University)
+  * Ching-Yu Huang (Tunghai University)
 
   \*  Committee Chair
 
