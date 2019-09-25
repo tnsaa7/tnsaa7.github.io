@@ -25,7 +25,6 @@ share: true
 * December 4-6, 2019
 * [National Cheng-Chi University](/venue/), Taipei, Taiwan
 
-
 ## Scopes
 
   * Tensor network algorithms
@@ -35,23 +34,25 @@ share: true
   * Machine learning
   * Lattice field theory
 
-## Invited Speakers
+## Invited Speakers (in alphabetical order)
 
-  *  Daisuke Kadoh (NCTS)
-  *  Stefan Kuhn (PI)
-  *  Yoshifumi Nakamura (RIKEN)
-  *  Zhang Pan (CAS)
-  *  Lixin He (U of Science and Technology)
   *  Dong-Hee Lee (Gwangju Institute of Science and Technology)
+  *  Lixin He (U of Science and Technology)
+  *  Naoki Kawashima (University of Tokyo)
+  *  Daisuke Kadoh (National Center for Theoretical Physics)
+  *  Stefan Kuhn (Perimeter Institute)
+  *  Yoshifumi Nakamura (RIKEN)    
+  *  Tomotoshi Nishino (Kobe University)
+  *  Zhang Pan (Chinese Academy of Science)
+  *  Tao Xiang (Chinese Academy of Science)
+  *  Ian McCulloch (University of Queensland)\*
   *  Wei Li (Behang)\*
-  *  Haijun Liao (CAS)\*
   *  Tsuyoshi Obuko (U of Tokyo) \*
   *  Kenji Harada (Kyoto U) \*
   *  Hyunyong Lee (U of Tokyo)\*
   *  Philip Corboz (U of Amsterdam) \*
   *  Frank Verstraete (Ghent U/U of Vienna)\*
   *  Frank Pollmann (Technical University of Munich)\*
-
 
   \* To be confirmed
 
@@ -64,11 +65,13 @@ share: true
 
 ## Organization Committee
 
+  * Yu-Cheng Lin, National Cheng-Chi University\*
   * Ying-Jer Kao, National Taiwan University
   * Pochung Chen, National Tsing Hua University
-  * Yu-Cheng Lin, National Cheng-Chi University
   * C.-J. David Lin, National Chiao-Tung University
   * Ching-Yu Huang, Tunghai University
+
+  \*  Committee Chair
 
 ## Sponsors
 

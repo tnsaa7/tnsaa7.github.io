@@ -22,7 +22,7 @@ There is a taxi pickup area by the Terminal Arrival area at Taiwan Taoyuan Inter
 
 ## Public Transportation
 
-* Take the airport MRT to Taipei Station. Take the XXXX
+* Take the airport MRT to Taipei Station. Take the taxi to NCCU which costs falls in the range of $400 - 500 approximately. Alternatively, take MRT to MRT Taipei Zoo and  take the bus (236, 237, 611, 282, BR11 , or BR6) across the street from MRT Taipei Zoo Station to NCCU.
 
 # From  Taipei Song-Shan International Airport 松山機場 to NCCU
 
