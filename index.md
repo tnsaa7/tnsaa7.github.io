@@ -41,23 +41,24 @@ share: true
 
 ## Invited Speakers (by alphabetical order)
 
-  *  Dong-Hee Lee (Gwangju Institute of Science and Technology)
+  *  Philip Corboz (U of Amsterdam) \*
+  *  Kenji Harada (Kyoto U) \*
   *  Lixin He (U of Science and Technology)
   *  Naoki Kawashima (University of Tokyo)
   *  Daisuke Kadoh (National Center for Theoretical Physics)
   *  Stefan Kuhn (Perimeter Institute)
+  *  Dong-Hee Lee (Gwangju Institute of Science and Technology)
+  *  Hyunyong Lee (U of Tokyo)\*
+  *  Wei Li (Behang)\*
+  *  Ian McCulloch (University of Queensland)\*
   *  Yoshifumi Nakamura (RIKEN)    
   *  Tomotoshi Nishino (Kobe University)
-  *  Zhang Pan (Chinese Academy of Science)
-  *  Tao Xiang (Chinese Academy of Science)
-  *  Ian McCulloch (University of Queensland)\*
-  *  Wei Li (Behang)\*
   *  Tsuyoshi Obuko (U of Tokyo) \*
-  *  Kenji Harada (Kyoto U) \*
-  *  Hyunyong Lee (U of Tokyo)\*
-  *  Philip Corboz (U of Amsterdam) \*
-  *  Frank Verstraete (Ghent U/U of Vienna)\*
+  *  Kouichi Okunishi (Niigata University)
+  *  Zhang Pan (Chinese Academy of Science)
   *  Frank Pollmann (Technical University of Munich)\*
+  *  Frank Verstraete (Ghent U/U of Vienna)\*
+  *  Tao Xiang (Chinese Academy of Science)
 
   \* To be confirmed
 
