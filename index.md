@@ -15,6 +15,7 @@ sidebar:
           "
 
 
+
 share: true
 ---
 
@@ -40,9 +41,8 @@ share: true
   * Lattice field theory
 
 ## Invited Speakers (by alphabetical order)
-
-  *  Philip Corboz (U of Amsterdam) \*
-  *  Kenji Harada (Kyoto U) \*
+  *  Chia-Min Chung (LMU Munich)
+  *  Kenji Harada (Kyoto U)
   *  Lixin He (U of Science and Technology)
   *  Naoki Kawashima (University of Tokyo)
   *  Daisuke Kadoh (National Center for Theoretical Physics)
@@ -51,9 +51,10 @@ share: true
   *  Hyunyong Lee (U of Tokyo)\*
   *  Wei Li (Behang)\*
   *  Ian McCulloch (University of Queensland)\*
+  *  Satoshi Morita (U of Tokyo)
   *  Yoshifumi Nakamura (RIKEN)    
   *  Tomotoshi Nishino (Kobe University)
-  *  Tsuyoshi Obuko (U of Tokyo) \*
+  *  Tsuyoshi Obuko (U of Tokyo)
   *  Kouichi Okunishi (Niigata University)
   *  Zhang Pan (Chinese Academy of Science)
   *  Frank Pollmann (Technical University of Munich)\*
@@ -80,6 +81,6 @@ share: true
   \*  Committee Chair
 
 ## Sponsors
+ <img src="/assets/images/most.jpg" alt="MOST" width="180"  >  
 
-  * Ministry of Science and Technology
-  * National Center for Theoretical Sciences
+ <img src="/assets/images/ncts.jpg" alt="NCTS" width="180"  >
