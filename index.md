@@ -44,20 +44,19 @@ share: true
   *  Chia-Min Chung (LMU Munich)
   *  Kenji Harada (Kyoto U)
   *  Lixin He (U of Science and Technology)
+  *  Katharine Hyatt (Flatiron Institute) \*
   *  Naoki Kawashima (University of Tokyo)
   *  Daisuke Kadoh (National Center for Theoretical Physics)
   *  Stefan Kuhn (Perimeter Institute)
   *  Dong-Hee Lee (Gwangju Institute of Science and Technology)
-  *  Hyunyong Lee (U of Tokyo)\*
-  *  Wei Li (Behang)\*
-  *  Ian McCulloch (University of Queensland)\*
+  *  Hyunyong Lee (U of Tokyo)
+  *  Ian McCulloch (University of Queensland)
   *  Satoshi Morita (U of Tokyo)
   *  Yoshifumi Nakamura (RIKEN)    
   *  Tomotoshi Nishino (Kobe University)
   *  Tsuyoshi Obuko (U of Tokyo)
   *  Kouichi Okunishi (Niigata University)
   *  Zhang Pan (Chinese Academy of Science)
-  *  Frank Pollmann (Technical University of Munich)\*
   *  Frank Verstraete (Ghent U/U of Vienna)\*
   *  Tao Xiang (Chinese Academy of Science)
 
