@@ -57,6 +57,7 @@ share: true
   *  Tsuyoshi Obuko (U of Tokyo)
   *  Kouichi Okunishi (Niigata University)
   *  Zhang Pan (Chinese Academy of Science)
+  *  Mingpu Qin (Shang-Hai Jiao-Tung University)
   *  Frank Verstraete (Ghent U/U of Vienna)\*
   *  Tao Xiang (Chinese Academy of Science)
 
