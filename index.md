@@ -44,11 +44,11 @@ share: true
   *  Chia-Min Chung (LMU Munich)
   *  Kenji Harada (Kyoto U)
   *  Lixin He (U of Science and Technology)
-  *  Katharine Hyatt (Flatiron Institute) \*
+  *  Katharine Hyatt (Flatiron Institute) 
   *  Naoki Kawashima (University of Tokyo)
   *  Daisuke Kadoh (National Center for Theoretical Physics)
   *  Stefan Kuhn (Perimeter Institute)
-  *  Dong-Hee Lee (Gwangju Institute of Science and Technology)
+  *  Dong-Hee Kim (Gwangju Institute of Science and Technology)
   *  Hyunyong Lee (U of Tokyo)
   *  Ian McCulloch (University of Queensland)
   *  Satoshi Morita (U of Tokyo)
@@ -58,7 +58,6 @@ share: true
   *  Kouichi Okunishi (Niigata University)
   *  Zhang Pan (Chinese Academy of Science)
   *  Mingpu Qin (Shang-Hai Jiao-Tung University)
-  *  Frank Verstraete (Ghent U/U of Vienna)\*
   *  Tao Xiang (Chinese Academy of Science)
 
   \* To be confirmed
