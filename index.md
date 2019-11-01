@@ -26,7 +26,7 @@ share: true
 ## Registration
 
   Registration and Abstract submission is now open at [Registration](/registration/).
-  **Notice: Due to the visa application process, we can no loger accept participants from China. **
+## Notice: Due to the visa application process, we can no loger accept participants from China. 
 
 ## Date & Venue
 * December 4-6, 2019
