@@ -55,7 +55,7 @@ share: true
   *  Satoshi Morita (U of Tokyo)
   *  Yoshifumi Nakamura (RIKEN)    
   *  Tomotoshi Nishino (Kobe University)
-  *  Tsuyoshi Obuko (U of Tokyo)
+  *  Tsuyoshi Okubo (U of Tokyo)
   *  Kouichi Okunishi (Niigata University)
   *  Zhang Pan (Chinese Academy of Science)
   *  Mingpu Qin (Shang-Hai Jiao-Tung University)
