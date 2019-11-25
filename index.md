@@ -8,7 +8,7 @@ header:
 
 sidebar:
   - title: "Latest News"
-    text: "Registration Open"
+    text: "Program online"
   - title: "Important Dates"
     text: "Registration deadline: 11/10
            Conference: 12/4-6
@@ -23,10 +23,14 @@ share: true
 
 **Welcome to the Workshop on Tensor Network States: Algorithms and Applications 2019-2020 !**
 
+## Program
+
+* Workshop program is available at [Program](/program/)
+
 ## Registration
 
   Registration and Abstract submission is now open at [Registration](/registration/).
-## Notice: Due to the visa application process, we can no loger accept participants from China. 
+
 
 ## Date & Venue
 * December 4-6, 2019
@@ -44,8 +48,7 @@ share: true
 ## Invited Speakers (by alphabetical order)
   *  Chia-Min Chung (LMU Munich)
   *  Kenji Harada (Kyoto U)
-  *  Lixin He (U of Science and Technology)
-  *  Katharine Hyatt (Flatiron Institute) 
+  *  Katharine Hyatt (Flatiron Institute)
   *  Naoki Kawashima (University of Tokyo)
   *  Daisuke Kadoh (National Center for Theoretical Physics)
   *  Stefan Kuhn (Perimeter Institute)
@@ -58,7 +61,6 @@ share: true
   *  Tsuyoshi Okubo (U of Tokyo)
   *  Kouichi Okunishi (Niigata University)
   *  Zhang Pan (Chinese Academy of Science)
-  *  Mingpu Qin (Shang-Hai Jiao-Tung University)
   *  Tao Xiang (Chinese Academy of Science)
 
   \* To be confirmed
