@@ -8,10 +8,12 @@ main:
      url: /about/
    - title: "Venue"
      url: /venue/
-   - title: "Registration"
-     url: /registration/
+#   - title: "Registration"
+#     url: /registration/
    - title: "Program"
      url: /program/
+   - title: "Accommodation"
+     url: /accommodation/
    - title: "Participants"
      url: /participants/
    - title: "Contact"

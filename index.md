@@ -25,16 +25,12 @@ share: true
 
 ## Program
 
-* Workshop program is available at [Program](/program/)
-
-## Registration
-
-  Registration and Abstract submission is now open at [Registration](/registration/).
+* Workshop program is available at [Program](/program/) (updated:2019/11/25)
 
 
 ## Date & Venue
 * December 4-6, 2019
-* [National Cheng-Chi University](/venue/), Taipei, Taiwan
+* Dah-Hsian Seetoo Library, [National Cheng-Chi University](/venue/), Taipei, Taiwan
 
 ## Scopes
 
@@ -63,7 +59,6 @@ share: true
   *  Zhang Pan (Chinese Academy of Science)
   *  Tao Xiang (Chinese Academy of Science)
 
-  \* To be confirmed
 
 ## Advisory Committee
 
