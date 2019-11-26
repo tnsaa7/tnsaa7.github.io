@@ -32,6 +32,8 @@ share: true
 * December 4-6, 2019
 * Dah-Hsian Seetoo Library, [National Cheng-Chi University](/venue/), Taipei, Taiwan
 
+![Dah-Hsian Seetoo Library](/assets/images/map_Dah_Hsian.png )
+
 ## Scopes
 
   * Tensor network algorithms
