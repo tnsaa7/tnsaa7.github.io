@@ -24,7 +24,7 @@ header:
 
 [pdf version](/assets/time_table_v3.pdf){:target="_blank"}
 
-updated: 2019/11/25
+updated: 2019/11/27
 
 
 ## Talk Abstracts
@@ -120,10 +120,13 @@ The higher-order tensor renormalization group method (HOTRG) is a tensor-network
 [1] Z. Y. Xie, et al., Phys. Rev. B 86, 045139 (2012)
 [2] T. Nishino, K. Okunishi, J. Phys. Soc. Jpn, 65, 891 (1996); 66, 3040 (1997)
 
-## <a name="nakamura"></a> TBA
+## <a name="nakamura"></a> Towards computing the standard model of particle physics by tensor renormalization group
 
 Yoshifumi	Nakamura, Center for Computational Science, RIKEN
 
+In this talk, I will review recent works on quantum field theory
+by using tensor renormalization group and discuss computations
+of the standard model of particle physics.
 
 ## Day Three: 12/6 (Fri)
 
