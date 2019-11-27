@@ -160,6 +160,13 @@ Using 1+1d models as test bed, we demonstrate this capability by exploring vario
 
 C.-J. David	Lin, Institute of Physics, National Chiao-Tung University
 
+We present concluding results from our study for phase structure
+of the massive Thirring model in 1+1 dimensions with staggered
+regularisation. Employing the method of matrix product state , several quantities are investigated, leading to numerical evidence of a Kosterlitz-Thouless phase transition. In particular, we examine two correlators and determine the relevant
+exponents. Exploratory results for real-time dynamics pertaining to this transition, obtained
+using the approaches of variational uniform matrix product state and time-dependent
+variational principle, are also discussed.
+
 ## <a name="kadoh"></a> A new renormalization group on higher dimensional tensor networks
 
 Daisuke Kadoh, Physics Division, National Center for Theoretical Sciences
