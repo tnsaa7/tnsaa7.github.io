@@ -51,17 +51,27 @@ For the XXZ chain, we discuss the relation between a lattice version of Unruh ef
 
 Tomotoshi Nishino, Department of Physics, Kobe University
 
-We report the character of phase transition of polyhedral models, which are discrete ana- logues of the classical Heisenberg model. Corner transfer matrix renormalization group (CTMRG) method is used for the calculation of thermodynamic functions on the square lattice. Entanglement entropy is observed for the estimation of the central charge. In contrast to the clock models, which are the discrete analogues of the classical XY model, no intermediate phase appears.
+In the first part of this talk we explain the classification of statistical lattice models, that
+have discrete site degrees of freedom, from the view point of their model construction, and
+briefly review the nature of their thermodynamic properties, chiefly in two dimension.
+In the second part we focus on the polyhedral models, which are discrete analogues of
+the classical Heisenberg model, on the square lattice. We analyze the character of phase
+transition by means of corner transfer matrix renormalization group (CTMRG) method.
+Thermodynamic functions and entanglement entropy are observed for the determination of
+the universality class. In contrast to the clock models, which are the discrete analogues of
+the classical XY model, no intermediate phase appears.
+We finally discuss numerical challenges in near future in the field of study.
 
-
-
+[1] ‘Phase diagram of truncated tetrahedral model’, Phys. Rev. E 94, 022134 (2016); arXiv:1512.09059.
+[2] ‘Critical behavior of the two-dimensional icosahedron model’, Phys. Rev. E 96, 062112 (2017); arXiv:1709.01275.
+[3] ‘Phase transition of the six-state clock model observed from the entanglement entropy’, arXiv:1612.07611.
 ## <a name="harada"></a> TBA
 
 Kenji Harada, Graduate School of  Informatics, Kyoto University
 
 ## <a name="poster"></a> Poster session
 
-[Abstracts](/poster/)
+[Abstracts](/poster/){:target="_blank"}
 
 ## Day two: 12/5 (Thurs)
 

@@ -30,9 +30,16 @@ share: true
 
 ## Date & Venue
 * December 4-6, 2019
-* Dah-Hsian Seetoo Library, [National Cheng-Chi University](/venue/), Taipei, Taiwan
+*  [Dah-Hsian Seetoo Library (達賢圖書館), National Cheng-Chi University](/venue/), Taipei, Taiwan
 
 ![Dah-Hsian Seetoo Library](/assets/images/map_Dah_Hsian.png )
+
+[Google Map](https://goo.gl/maps/ZXMfEkjFr3TzyWLQ9){:target="_blank"}
+
+Notice that the workshop venue is not on the NCCU main campus.
+{: .notice--warning}
+
+
 
 ## Scopes
 
