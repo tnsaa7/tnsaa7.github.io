@@ -15,7 +15,6 @@ sidebar:
           "
 
 
-
 share: true
 ---
 
@@ -23,9 +22,11 @@ share: true
 
 **Welcome to the Workshop on Tensor Network States: Algorithms and Applications 2019-2020 !**
 
+[Workshop poster](/assets/poster_n_tnsaa7.pdf){:target="_blank"}
 ## Program
 
 * Workshop program is available at [Program](/program/) (updated:2019/11/25)
+
 
 
 ## Date & Venue
