@@ -130,10 +130,14 @@ of the standard model of particle physics.
 
 ## Day Three: 12/6 (Fri)
 
-## <a name="mcculloch"></a> TBA
+## <a name="mcculloch"></a>  Correlations and order parameters in infinite matrix product states
 
 Ian McCulloch, School of Physics and Mathematics, University of Queensland
 
+I will give a pedagogical survey of methods based on correlation
+functions, order parameters, fluctuations, and scaling functions, for
+determining critical properties of 1D transitionally-invariant systems,
+focusing on recent work on scaling functions and Binder cumulants.
 
 ## <a name="hyatt"></a> DMRG Approach to Optimizing Two-Dimensional Tensor Networks
 

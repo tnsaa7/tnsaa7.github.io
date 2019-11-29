@@ -59,7 +59,6 @@ Notice that the workshop venue is not on the NCCU main campus.
   *  Daisuke Kadoh (National Center for Theoretical Physics)
   *  Stefan Kuhn (Perimeter Institute)
   *  Dong-Hee Kim (Gwangju Institute of Science and Technology)
-  *  Hyunyong Lee (U of Tokyo)
   *  Ian McCulloch (University of Queensland)
   *  Satoshi Morita (U of Tokyo)
   *  Yoshifumi Nakamura (RIKEN)    
