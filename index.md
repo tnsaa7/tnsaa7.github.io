@@ -90,3 +90,5 @@ Notice that the workshop venue is not on the NCCU main campus.
  <img src="/assets/images/most.jpg" alt="MOST" width="180"  >  
 
  <img src="/assets/images/ncts.jpg" alt="NCTS" width="180"  >
+
+ <img src="/assets/images/nccu.png" alt="NCCU" width="180"  >
