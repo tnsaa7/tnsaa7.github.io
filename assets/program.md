@@ -67,6 +67,7 @@ We finally discuss numerical challenges in near future in the field of study.
 [1] ‘Phase diagram of truncated tetrahedral model’, Phys. Rev. E 94, 022134 (2016); arXiv:1512.09059.
 [2] ‘Critical behavior of the two-dimensional icosahedron model’, Phys. Rev. E 96, 062112 (2017); arXiv:1709.01275.
 [3] ‘Phase transition of the six-state clock model observed from the entanglement entropy’, arXiv:1612.07611.
+
 ## <a name="harada"></a> New numerical approaches for directed percolation
 
 Kenji Harada, Graduate School of  Informatics, Kyoto University
