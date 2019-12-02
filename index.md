@@ -25,7 +25,7 @@ share: true
 [Workshop poster](/assets/poster_n_tnsaa7.pdf){:target="_blank"}
 ## Program
 
-* Workshop program is available at [Program](/program/) (updated:2019/11/25)
+* Workshop program is available at [Program](/program/) (updated:2019/12/02)
 
 
 
