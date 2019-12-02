@@ -198,6 +198,7 @@ Daisuke Kadoh, Physics Division, National Center for Theoretical Sciences
 We propose a new tensor renormalization group which can be applied to any dimension. We test it in 3d Ising model and compare results to those obtained from the higher-oder TRG and anisotropic TRG methods.
 
 
+/pagebreak
 
 ## <a name="poster"></a> Poster session
 
