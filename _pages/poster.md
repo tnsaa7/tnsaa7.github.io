@@ -61,3 +61,12 @@ We study a 2D S=1/2 quantum antiferromagnet (the J-Q model) in the presence of a
 [1] H Shao, W Guo & AW Sandvik, Science 352, 213 (2016)
 [2] HD Scammell & OP Sushkov, Phys. Rev. Lett. 114 055702 (2015)
 [3] A Iaizzi, HD Scammell, OP Sushkov & AW Sandvik arXiv:1909.01594 (under review)
+
+
+### Phase Transition of the Ising Model on a 3-Dimensional Fractal Lattice
+
+Jozef Genzor, Department of Physics, National Taiwan University
+
+The current study is an extension of our earlier study of the phase transition phenomena on a fractal lattice*. Whereas the before-studied fractal lattice was embedded into the two-dimensional space, now, the embedding space is three dimensional. It can be expected that such a change of the topology would have a rather significant influence on the character of the phase transition of the system. The Hausdorff dimension of the currently-studied fractal lattice is exactly $$d^{(\text{H})} = \ln32 / \ln4 = 2.5$$; thus, singular behavior of the specific heat might be expected, as such behavior is already exhibited by a regular square-lattice Ising model. Indeed, we have observed a singular behavior (divergence) at $$T_{\text{c}}$$ of the specific heat per site $$c(T)$$ obtained as a numerical derivative of the bond energy $$u$$ with respect to the temperature, i.~e., $$c(T)=d u/ dT$$. We want to emphasize that this behavior is different from one observed in the case of the 2-dimensional fractal lattice with the Hausdorf dimension $$d^{(H)} = \ln 12 / \ln 4 \approx 1.792$$ studied earlier*, where no such divergence was found. Moreover, even though the currently studied fractal is three-dimensional, the critical exponent $$\beta \approx 0.059 \approx 1/17$$ is smaller than the exponent in the case of the square lattice Ising model $$\beta_{\text{square}}=1/8$$.
+
+*J. Genzor, A. Gendiar, and T. Nishino, Phys. Rev. E {\bf 93} (2016) 012141.

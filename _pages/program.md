@@ -22,7 +22,7 @@ header:
 |16:10—16:50|Poster session discussion|||
 |||banquet|
 
-[pdf version](/assets/time_table_v3.pdf){:target="_blank"}
+[pdf version](/assets/program.pdf){:target="_blank"}
 
 updated: 2019/11/27
 
@@ -38,7 +38,7 @@ I review recent activities related to the Kitaev model and its derivatives. Espe
 
 Pan Zhang, Institute of Theoretical Physics, Chinese Academy of Sciences
 
-Tensor networks are powerful tools in quantum many-body problems， usually defined on lattices where efficient contraction algorithms exist. However, when applied to problems out of physics such as graphical models, the underlying network connections could be far from lattices.
+Tensor networks are powerful tools in quantum many-body problems, usually defined on lattices where efficient contraction algorithms exist. However, when applied to problems out of physics such as graphical models, the underlying network connections could be far from lattices.
 In this talk I will introduce an approach for approximately contracting tensor networks with arbitrary connections, such as on lattices, random graphs, and complete graphs. We show applications of our algorithm in estimating free energy of finite-size spin glasses defined on various of topologies, where our algorithm outperforms existing algorithms including mean-field, MCMC based, and recently proposed neural network based methods. We further apply our algorithm to simulations of random quantum circuits with a low depth, where it displays significant speed up and memory efficiency over exact simulations while produce only negligible SVD cut-off error.
 
 ## <a name="okunishi"></a> Corner transfer matrix and lattice Unruh effect for the XXZ chain
