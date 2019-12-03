@@ -26,9 +26,11 @@ header:
 
 updated: 2019/12/02
 
-
-## Talk Abstracts
+## Abstracts
 ## Day One: 12/4 (Wed)
+### Morning session
+Chair: Ying-Jer Kao
+
 ## <a name="kawashima"></a>Understanding Kitaev Related Models through Tensor Networks
 Naoki Kawashima, ISSP, University fo Tokyo
 
@@ -46,6 +48,9 @@ In this talk I will introduce an approach for approximately contracting tensor n
 Kouichi Okunishi, Department of Physics, Niigata University
 
 For the XXZ chain, we discuss the relation between a lattice version of Unruh effect and the ground-state entanglement on the basis of corner transfer matrix. We show that the lattice Unruh temperature with an effective acceleration can be related to the anisotropy parameter of the XXZ chain. Quantum Monte Carlo simulations demonstrate that world lines of spins surrounding the entangle point provides an intuitive view for the quantum entanglement. We also discuss an XXZ-chain analogue of the detector for the thermalized entanglement spectrum.
+
+### Afternoon Session
+Chair: Pochung Chen
 
 ## <a name="nishino"></a> Thermodynamic Properties of Discrete Classical Heisenberg Models on Square Lattice
 
@@ -79,6 +84,9 @@ The directed percolation(DP) is a canonical model of a nonequilibrium continuous
 [Abstracts](/poster/){:target="_blank"}
 
 ## Day two: 12/5 (Thurs)
+### Morning session
+
+Chair: Ching-Yu Huang
 
 ## <a name="xiang"></a> Berezinskii-Kosterlitz-Thouless Criticality in the $$q$$-state Clock Model
 
@@ -99,6 +107,10 @@ In this talk, I present our recent study on partition function zeros in the p-st
 Tsuyoshi Obuko, Department of Physics, University of Tokyo
 
 The real-space renormalization group methods based on tensor network representations are becoming popular numerical algorithms for calculating classical/quantum partition functions. However, when we consider high dimensional tensor networks, the existing methods, such as HOTRG, are suffered from huge computation cost. In this talk, we proposed a new algorithm, named the Anisotropic Tensor Renormalization Grope (ATRG) [1]. Different from the previous methods, we decompose tensors in an anisotropic way so that the increase of the computation cost in high dimensions can be suppressed: For d dimensional hyper cubic lattice with the bond dimension $$D$$, it scales as $$D^{2d+1}$$. We will demonstrate the ability of ATRG for several models; They show that the accuracy with fixed computation time is improved greatly compared with HOTRG. [1] D. Adachi, T. Okubo, and S. Todo, arXiv:1906.02007.
+
+
+### Afternoon session
+Chair: C.-J. David Lin
 
 ## <a name="chung"></a> Minimally entangled typical thermal states with auxiliary matrix-product-state bases
 
@@ -134,6 +146,9 @@ by using tensor renormalization group and discuss computations
 of the standard model of particle physics.
 
 ## Day Three: 12/6 (Fri)
+### Morning session
+
+Chair: Chia-Min Chung
 
 ## <a name="mcculloch"></a>  Correlations and order parameters in infinite matrix product states
 
@@ -155,6 +170,10 @@ Tensor network algorithms have been remarkably successful solving a variety of p
 Ching-Yu Huang, Department of Applied Physics, Tunghai University
 
 In our work, we employ a tensor-network method to compute physical observables in  three-dimensional quantum wave functions. First, topologically ordered quantum systems have robust physical properties, such as quasiparticle statistics and ground-state degeneracy, which do not depend on the microscopic details of the Hamiltonian. We consider a three-dimensional  $$Z_N$$ topological phase under a string tension $$g$$.  We calculate the modular matrices $$S$$ and $$T$$ using tensor network methods and these matrices can serve as order parameters to determine the critical string tension $$g_c$$. The obtained transition agrees with results from a mapping to a three-dimensional classical N-state Potts model.  We also consider the  Affleck-Kennedy-Lieb-Tasaki (AKLT) state on the cubic lattice and study the phase diagram  of the AKLT state with deformation numerically.
+
+### Afternoon session
+
+Chair: Ian McCulloch
 
 ## <a name="kuhn"></a> Application of Tensor Network States to Lattice Field Theories
 
