@@ -36,6 +36,8 @@ Naoki Kawashima, ISSP, University fo Tokyo
 
 I review recent activities related to the Kitaev model and its derivatives. Especially, we developed a new series of tensor network ansatzes that describes the ground state of the Kitaev model with high accuracy. The series of ansatzes suggest the essential similarity between the classical loop gas model and the Kitaev spin liquid. We also use the ansatzes for the initial state for TEBD-type optimization.
 
+[Slides](/assets/slides/kawashima.pdf){:target="_blank"}
+
 ## <a name="zhang"></a>Approximately contracting arbitrary tensor networks: efficient algorithms and applications in graphical models and quantum circuit simulations
 
 Pan Zhang, Institute of Theoretical Physics, Chinese Academy of Sciences
@@ -43,11 +45,15 @@ Pan Zhang, Institute of Theoretical Physics, Chinese Academy of Sciences
 Tensor networks are powerful tools in quantum many-body problems, usually defined on lattices where efficient contraction algorithms exist. However, when applied to problems out of physics such as graphical models, the underlying network connections could be far from lattices.
 In this talk I will introduce an approach for approximately contracting tensor networks with arbitrary connections, such as on lattices, random graphs, and complete graphs. We show applications of our algorithm in estimating free energy of finite-size spin glasses defined on various of topologies, where our algorithm outperforms existing algorithms including mean-field, MCMC based, and recently proposed neural network based methods. We further apply our algorithm to simulations of random quantum circuits with a low depth, where it displays significant speed up and memory efficiency over exact simulations while produce only negligible SVD cut-off error.
 
+[Slides](/assets/slides/pzhang.pdf){:target="_blank"}
+
 ## <a name="okunishi"></a> Corner transfer matrix and lattice Unruh effect for the XXZ chain
 
 Kouichi Okunishi, Department of Physics, Niigata University
 
 For the XXZ chain, we discuss the relation between a lattice version of Unruh effect and the ground-state entanglement on the basis of corner transfer matrix. We show that the lattice Unruh temperature with an effective acceleration can be related to the anisotropy parameter of the XXZ chain. Quantum Monte Carlo simulations demonstrate that world lines of spins surrounding the entangle point provides an intuitive view for the quantum entanglement. We also discuss an XXZ-chain analogue of the detector for the thermalized entanglement spectrum.
+
+[Slides](/assets/slides/okunishi.pdf){:target="_blank"}
 
 ### Afternoon Session
 Chair: Pochung Chen
@@ -71,6 +77,8 @@ We finally discuss numerical challenges in near future in the field of study.
 [2] ‘Critical behavior of the two-dimensional icosahedron model’, Phys. Rev. E 96, 062112 (2017); arXiv:1709.01275.
 [3] ‘Phase transition of the six-state clock model observed from the entanglement entropy’, arXiv:1612.07611.
 
+[Slides](/assets/slides/nishino.pdf){:target="_blank"}
+
 ## <a name="harada"></a> New numerical approaches for directed percolation
 
 Kenji Harada, Graduate School of  Informatics, Kyoto University
@@ -78,6 +86,8 @@ Kenji Harada, Graduate School of  Informatics, Kyoto University
 The directed percolation(DP) is a canonical model of a nonequilibrium continuous transition. A broad class of dynamical processes shares the critical property with the DP in spacetime. In this talk, I introduce our recent numerical study of DP with new numerical approaches. I report MPS[1] and Monte Calro results of the entropies of DP in the (1+1)-dimensional spacetime, and TRG results with an oblique projection for the transfer matrix of DP.
 
 [1]     K. Harada and N. Kawashima, Entropy Governed by the Absorbing State of Directed Percolation, Phys. Rev. Lett. 123, 090601 (2019).
+
+[Slides](/assets/slides/harada.pdf){:target="_blank"}
 
 ## <a name="poster"></a> Poster session
 
@@ -95,6 +105,7 @@ Tao Xiang, Institute of Physics, Chinese Academy of Sciences
 We perform state-of-the-art tensor network simulations to pinpoint the nature of phase transitions in the two-dimensional $$q$$-state clock model. We establish that for all $$q$$, a $$Z_q$$-deformed sine-Gordon theory describesthe 2D $$q$$-state clock model in the continuum limit. For $$q > 4$$, this field theory predicts that a critical phase
 emerges within an intermediate temperature domain $$T_{c1} < T < T_{c2}$$, with both critical points at $$T_{c1}$$ and $$T_{c2}$$ being Berezinskii-Kosterlitz-Thouless (BKT) transitions. We determine precisely the critical temperatures by performing tensor network simulations in the thermodynamic limit and provide extensive numerical evidences supporting that both critical points for $$q > 4$$ are of the BKT-type. Within the critical phase, we determine for the first time the single characteristic parameter (related to the compactification radius in compactified boson conformal field theory) governing the critical properties and give a hint on the possible existence of a self-dual point in the phase diagram.
 
+[Slides](/assets/slides/txiang.pdf){:target="_blank"}
 
 ## <a name="kim"></a> Higher-order tensor renormalization group study on partition function zeros in the $$p$$-state clock model
 
@@ -102,12 +113,15 @@ Dong-Hee Kim, Department of Physics and Photon Science, Gwangju Institute of Sci
 
 In this talk, I present our recent study on partition function zeros in the p-state clock model in square lattices. First, I discuss the numerical difficulties that the previous Wang-Landau Monte Carlo calculations faced so that they were limited to very small system sizes. The physical origin of the difficulties is highly related to the nondivergent specific heat at the Berezinskii-Kosterlitz-Thouless (BKT) transitions expected in the $$p$$-state clock model of $$p>4$$, causing an exponentially growing signal-to-noise ratio in the Monte Carlo measurements of partition function with increasing system size. Then, I present our main results based on the higher-order tensor renormalization group (HOTRG) calculations of the leading Fisher zeros in these systems. By employing the HOTRG method, which is free from stochastic noises, we manage to reach the systems of $$128 \times 128$$ sites in search for the leading Fisher zeros in the model of $$p$$=5 and 6. To perform the finite-size-scaling (FSS) analysis, we have derived the logarithmic finite-size corrections to the scaling of the leading zeros. We have found that their FSS behaviors show excellent agreement with our predictions of the logarithmic corrections to the BKT ansatz at both of the high- and low-temperature transitions in the $$p$$-state clock model, resolving the disagreements between the previous Fisher zero studies and the other studies with different measures.
 
+[Slides](/assets/slides/DHKIM_TNSAA7.pdf){:target="_blank"}
+
 ## <a name="obuko"></a> Anisotropic tensor renormalization group
 
 Tsuyoshi Obuko, Department of Physics, University of Tokyo
 
 The real-space renormalization group methods based on tensor network representations are becoming popular numerical algorithms for calculating classical/quantum partition functions. However, when we consider high dimensional tensor networks, the existing methods, such as HOTRG, are suffered from huge computation cost. In this talk, we proposed a new algorithm, named the Anisotropic Tensor Renormalization Grope (ATRG) [1]. Different from the previous methods, we decompose tensors in an anisotropic way so that the increase of the computation cost in high dimensions can be suppressed: For d dimensional hyper cubic lattice with the bond dimension $$D$$, it scales as $$D^{2d+1}$$. We will demonstrate the ability of ATRG for several models; They show that the accuracy with fixed computation time is improved greatly compared with HOTRG. [1] D. Adachi, T. Okubo, and S. Todo, arXiv:1906.02007.
 
+[Slides](/assets/slides/okubo.pdf){:target="_blank"}
 
 ### Afternoon session
 Chair: C.-J. David Lin
@@ -129,6 +143,8 @@ new method outperforms the original METTS as well as the purification methods at
 temperature, the usual range of applications of METTS. The new method also naturally connects
 the METTS method to the purification method.
 
+[Slides](/assets/slides/chung.pdf){:target="_blank"}
+
 ## <a name="morita"></a> Higher-order tensor renormalization group with the corner transfer matrix
 
 Satoshi	Morita, ISSP, University of Tokyo
@@ -137,6 +153,8 @@ The higher-order tensor renormalization group method (HOTRG) is a tensor-network
 [1] Z. Y. Xie, et al., Phys. Rev. B 86, 045139 (2012)
 [2] T. Nishino, K. Okunishi, J. Phys. Soc. Jpn, 65, 891 (1996); 66, 3040 (1997)
 
+[Slides](/assets/slides/morita.pdf){:target="_blank"}
+
 ## <a name="nakamura"></a> Towards computing the standard model of particle physics by tensor renormalization group
 
 Yoshifumi	Nakamura, Center for Computational Science, RIKEN
@@ -144,6 +162,8 @@ Yoshifumi	Nakamura, Center for Computational Science, RIKEN
 In this talk, I will review recent works on quantum field theory
 by using tensor renormalization group and discuss computations
 of the standard model of particle physics.
+
+[Slides](/assets/slides/nakamura.pdf){:target="_blank"}
 
 ## Day Three: 12/6 (Fri)
 ### Morning session
@@ -159,17 +179,23 @@ functions, order parameters, fluctuations, and scaling functions, for
 determining critical properties of 1D transitionally-invariant systems,
 focusing on recent work on scaling functions and Binder cumulants.
 
+[Slides](/assets/slides/mcculloch.pdf){:target="_blank"}
+
 ## <a name="hyatt"></a> DMRG Approach to Optimizing Two-Dimensional Tensor Networks
 
 Katharine	Hyatt, Center for Computational Quantum Physics, Flatiron Institute
 
 Tensor network algorithms have been remarkably successful solving a variety of problems in quantum many-body physics. However, algorithms to optimize two-dimensional tensor networks known as PEPS lack many of the aspects that make the density matrix renormalization group (DMRG) algorithm so powerful for optimizing one-dimensional tensor networks known as matrix product states (MPS). I will motivate the development of our DMRG-for-PEPS technique from the more common MPS case, discuss our implementation, and propose some further directions for research and applications.
 
+[Slides](/assets/slides/khyatt.pdf){:target="_blank"}
+
 ## <a name="huang"></a> The application of tensor network method in three dimensional quantum system
 
 Ching-Yu Huang, Department of Applied Physics, Tunghai University
 
 In our work, we employ a tensor-network method to compute physical observables in  three-dimensional quantum wave functions. First, topologically ordered quantum systems have robust physical properties, such as quasiparticle statistics and ground-state degeneracy, which do not depend on the microscopic details of the Hamiltonian. We consider a three-dimensional  $$Z_N$$ topological phase under a string tension $$g$$.  We calculate the modular matrices $$S$$ and $$T$$ using tensor network methods and these matrices can serve as order parameters to determine the critical string tension $$g_c$$. The obtained transition agrees with results from a mapping to a three-dimensional classical N-state Potts model.  We also consider the  Affleck-Kennedy-Lieb-Tasaki (AKLT) state on the cubic lattice and study the phase diagram  of the AKLT state with deformation numerically.
+
+[Slides](/assets/slides/huang.pdf){:target="_blank"}
 
 ### Afternoon session
 
@@ -183,6 +209,7 @@ The conventional Euclidean time Monte Carlo approach to Lattice Field Theories f
 
 Using 1+1d models as test bed, we demonstrate this capability by exploring various scenarios at nonzero chemical potential and with topological theta-term, which are inaccessible with conventional Monte Carlo methods. Our results show that Tensor Networks States are suitable to accurately describe the low-energy spectrum, and that numerical errors can be controlled well enough to make contact with continuum predictions.
 
+[Slides](/assets/slides/kuhn.pdf){:target="_blank"}
 
 ## <a name="lin"></a> Phase structure and real-time dynamics of the massive Thirring model in 1+1 dimensions using the tensor-network method
 
@@ -195,8 +222,12 @@ exponents. Exploratory results for real-time dynamics pertaining to this transit
 using the approaches of variational uniform matrix product state and time-dependent
 variational principle, are also discussed.
 
+[Slides](/assets/slides/dlin_TNSAA_2019.pdf){:target="_blank"}
+
 ## <a name="kadoh"></a> A new renormalization group on higher dimensional tensor networks
 
 Daisuke Kadoh, Physics Division, National Center for Theoretical Sciences
 
 We propose a new tensor renormalization group which can be applied to any dimension. We test it in 3d Ising model and compare results to those obtained from the higher-oder TRG and anisotropic TRG methods.
+
+[Slides](/assets/slides/kadoh.pdf){:target="_blank"}

@@ -18,8 +18,14 @@ sidebar:
 share: true
 ---
 
-# Welcome
 
+
+![Group Photo](/assets/images/group_photo.jpg)
+
+
+
+
+# Welcome
 **Welcome to the Workshop on Tensor Network States: Algorithms and Applications 2019-2020 !**
 
 [Workshop poster](/assets/poster_n_tnsaa7.pdf){:target="_blank"}
