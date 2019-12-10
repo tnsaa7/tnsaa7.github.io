@@ -8,7 +8,7 @@ header:
 
 sidebar:
   - title: "Latest News"
-    text: "Program online"
+    text: "Speaker slides online"
   - title: "Important Dates"
     text: "Registration deadline: 11/10
            Conference: 12/4-6

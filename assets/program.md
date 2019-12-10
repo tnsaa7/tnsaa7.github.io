@@ -74,7 +74,7 @@ Kenji Harada, Graduate School of  Informatics, Kyoto University
 
 The directed percolation(DP) is a canonical model of a nonequilibrium continuous transition. A broad class of dynamical processes shares the critical property with the DP in spacetime. In this talk, I introduce our recent numerical study of DP with new numerical approaches. I report MPS[1] and Monte Calro results of the entropies of DP in the (1+1)-dimensional spacetime, and TRG results with an oblique projection for the transfer matrix of DP.
 
-[1]     K. Harada and N. Kawashima, Entropy Governed by the Absorbing State of Directed Percolation, Phys. Rev. Lett. 123, 090601 (2019).
+[1] K. Harada and N. Kawashima, Entropy Governed by the Absorbing State of Directed Percolation, Phys. Rev. Lett. 123, 090601 (2019).
 
 \pagebreak
 

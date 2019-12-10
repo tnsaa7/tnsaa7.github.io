@@ -15,7 +15,7 @@ header:
 |10:50—11:30|[Pan Zhang](#zhang) |[Dong-Hee Kim](#kim)|[Katharine Hyatt](#hyatt)|
 |11:30—12:10|[Kouichi Okunishi](#okunishi)|[Tsuyoshi Obuko](#obuko)|[Ching-Yu Huang](#huang)|
 |12:10—13:30|lunch| lunch|lunch|
-|13:30—14:30|[Tomotoshi Nishino](#nishino)|[Chia-Min Chung](#chung)|[Stefan Kuhn](#kuhn)|
+|13:30—14:30|[Tomotoshi Nishino](#nishino)|[Chia-Min Chung](#chung)|[Stefan Kühn](#kuehn)|
 |14:30—15:10|[Kenji Harada](#harada)|[Satoshi Morita](#morita)|[C.-J. David Lin](#lin)|
 |15:10—15:30|break|break|break|
 |15:30—16:10|[Poster session discussion](/poster/)|[Yoshifumi Nakamura](#nakamura)|[Daisuke Kadoh](#kadoh)|
@@ -201,7 +201,7 @@ In our work, we employ a tensor-network method to compute physical observables i
 
 Chair: Ian McCulloch
 
-## <a name="kuhn"></a> Application of Tensor Network States to Lattice Field Theories
+## <a name="kuehn"></a> Application of Tensor Network States to Lattice Field Theories
 
 Stefan	Kühn, Perimeter Institute
 
@@ -209,7 +209,7 @@ The conventional Euclidean time Monte Carlo approach to Lattice Field Theories f
 
 Using 1+1d models as test bed, we demonstrate this capability by exploring various scenarios at nonzero chemical potential and with topological theta-term, which are inaccessible with conventional Monte Carlo methods. Our results show that Tensor Networks States are suitable to accurately describe the low-energy spectrum, and that numerical errors can be controlled well enough to make contact with continuum predictions.
 
-[Slides](/assets/slides/kuhn.pdf){:target="_blank"}
+[Slides](/assets/slides/kuehn.pdf){:target="_blank"}
 
 ## <a name="lin"></a> Phase structure and real-time dynamics of the massive Thirring model in 1+1 dimensions using the tensor-network method
 
