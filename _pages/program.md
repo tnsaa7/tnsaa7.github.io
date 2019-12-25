@@ -105,7 +105,7 @@ Tao Xiang, Institute of Physics, Chinese Academy of Sciences
 We perform state-of-the-art tensor network simulations to pinpoint the nature of phase transitions in the two-dimensional $$q$$-state clock model. We establish that for all $$q$$, a $$Z_q$$-deformed sine-Gordon theory describesthe 2D $$q$$-state clock model in the continuum limit. For $$q > 4$$, this field theory predicts that a critical phase
 emerges within an intermediate temperature domain $$T_{c1} < T < T_{c2}$$, with both critical points at $$T_{c1}$$ and $$T_{c2}$$ being Berezinskii-Kosterlitz-Thouless (BKT) transitions. We determine precisely the critical temperatures by performing tensor network simulations in the thermodynamic limit and provide extensive numerical evidences supporting that both critical points for $$q > 4$$ are of the BKT-type. Within the critical phase, we determine for the first time the single characteristic parameter (related to the compactification radius in compactified boson conformal field theory) governing the critical properties and give a hint on the possible existence of a self-dual point in the phase diagram.
 
-[Slides](/assets/slides/txiang.pdf){:target="_blank"}
+[Slides](/assets/slides/xiang.pdf){:target="_blank"}
 
 ## <a name="kim"></a> Higher-order tensor renormalization group study on partition function zeros in the $$p$$-state clock model
 
